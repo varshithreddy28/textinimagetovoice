@@ -1,2 +1,2 @@
 # textinimagetovoice
- This is a Deep Learning Project which Converts text in image to voicce
+ This is a Deep Learning Project which Converts text in image to voice
