@@ -1,0 +1,50 @@
+body {
+  background: #0f2027; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #2c5364,
+    #203a43,
+    #0f2027
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #2c5364,
+    #203a43,
+    #0f2027
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: white;
+}
+input.submitBtn {
+  background-color: #fdcd4d;
+  width: 100%;
+  color: #3a3e59;
+  font-weight: 800;
+  letter-spacing: 3px;
+  height: 2.5em;
+  border: none;
+  border-radius: 8px;
+}
+.container.FromUpload {
+  width: 50%;
+  /* height: 15%; */
+  margin-top: 15%;
+}
+h1 {
+  text-align: center;
+}
+
+.container.audioPlay {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* align-content: center; */
+  margin-top: 18%;
+}
+.audioConverted {
+  margin-top: 2.2em;
+}
+a.navbar-link.github {
+  color: black;
+  font-size: 1.5em;
+}
